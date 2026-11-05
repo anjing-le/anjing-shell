@@ -1,0 +1,36 @@
+{
+  "fill-specializations": [
+    {
+      "value": {
+        "solid": "srgb:1.00000,0.94800,0.86300,1.00000"
+      }
+    }
+  ],
+  "groups": [
+    {
+      "name": "Snail",
+      "blur-material": null,
+      "layers": [
+        {
+          "name": "User snail artwork",
+          "image-name": "Snail.png",
+          "glass": false
+        }
+      ],
+      "shadow": {
+        "kind": "neutral",
+        "opacity": 0
+      },
+      "specular": false,
+      "translucency": {
+        "enabled": false,
+        "value": 0
+      }
+    }
+  ],
+  "supported-platforms": {
+    "squares": [
+      "macOS"
+    ]
+  }
+}

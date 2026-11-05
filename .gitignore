@@ -1,0 +1,7 @@
+.build/
+.local/
+dist/
+.DS_Store
+
+# Local cursor images; not distributed with public source.
+Sources/ShellX/Resources/Cursors/
